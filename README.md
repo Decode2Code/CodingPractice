@@ -7,4 +7,4 @@ The problems are being picked from 2 main sources:
 
 Problems from few more sources like https://www.geeksforgeeks.org/ and https://leetcode.com/problemset/all/ will be added in future.
 
-### Good Luck! Happy Coding ! :)
+### Good Luck! Happy Coding! :)
