@@ -1,7 +1,7 @@
 # CodingPractice
 For puiting in sample code/ solutions
 
-The problems are being picked from 2 main sources:
+The problems are being picked from these main sources:
 1. https://cp-algorithms.com/
 2. https://discuss.codechef.com/t/data-structures-and-algorithms/6599
 3. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
